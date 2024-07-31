@@ -1,0 +1,6 @@
+#sticky-trip-tab.fixed-trip-tab {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
